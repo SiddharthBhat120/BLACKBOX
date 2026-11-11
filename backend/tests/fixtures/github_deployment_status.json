@@ -1,0 +1,4 @@
+{"action": "created",
+ "deployment_status": {"id": 77, "state": "success", "created_at": "2026-11-10T08:57:30Z", "environment": "production"},
+ "deployment": {"id": 12, "sha": "9f8e7d6c5b4a", "ref": "v1.8.0", "environment": "production", "description": "Release 1.8.0", "created_at": "2026-11-10T08:57:00Z"},
+ "repository": {"name": "orders"}}

@@ -1,0 +1,5 @@
+[
+ {"timestamp": "2026-11-10T08:58:00Z", "service": "orders", "kind": "deploy", "version": "v1.8.0", "description": "Enable promo flag"},
+ {"timestamp": "2026-11-10T14:35:00+05:30", "service": "payments", "kind": "config", "version": "PROVIDER_TIMEOUT_MS", "description": "3000 -> 250"},
+ {"service": "gateway", "version": "v4.2.1"}
+]

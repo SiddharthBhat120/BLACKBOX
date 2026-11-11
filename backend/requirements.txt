@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn>=0.27
+python-multipart>=0.0.9
+pydantic>=2.6
+drain3>=0.9.11
+httpx>=0.26
+tzdata>=2024.1
+pytest>=8.0

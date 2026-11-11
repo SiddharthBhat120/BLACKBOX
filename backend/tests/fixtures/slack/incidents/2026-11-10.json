@@ -1,0 +1,5 @@
+[{"type": "message", "user": "U1", "text": "checkout is failing, looking now", "ts": "1794301500.000100"},
+ {"type": "message", "subtype": "bot_message", "username": "alertmanager", "bot_id": "B1", "text": "[FIRING] HighErrorRate", "ts": "1794301380.000200"},
+ {"type": "message", "user": "U2", "text": "Rahul here: rolled back orders to v1.7.3", "ts": "1794301800.000300"},
+ {"type": "message", "user": "U2", "text": "", "ts": "1794301801.0"},
+ {"type": "message", "user": "U1", "text": "no ts"}]

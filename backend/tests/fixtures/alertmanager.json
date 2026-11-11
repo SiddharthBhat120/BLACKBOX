@@ -1,0 +1,10 @@
+{"version": "4", "status": "firing", "receiver": "blackbox",
+ "alerts": [
+  {"status": "firing", "labels": {"alertname": "HighErrorRate", "service": "orders", "severity": "critical"},
+   "annotations": {"summary": "orders error rate above 5%"}, "startsAt": "2026-11-10T09:03:00Z",
+   "endsAt": "0001-01-01T00:00:00Z", "fingerprint": "abc123"},
+  {"status": "resolved", "labels": {"alertname": "HighLatency", "service": "payments", "severity": "warning"},
+   "annotations": {"summary": "p95 high"}, "startsAt": "2026-11-10T08:50:00Z",
+   "endsAt": "2026-11-10T09:10:00Z", "fingerprint": "def456"},
+  {"status": "firing", "labels": {"alertname": "Broken"}}
+ ]}

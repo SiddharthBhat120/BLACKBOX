@@ -1,0 +1,7 @@
+{"ts": "2026-11-10T09:00:00.100Z", "level": "INFO", "service": "orders", "msg": "fetched order o-10001 in 31ms"}
+{"timestamp": "2026-11-10 14:30:01.200+05:30", "severity": "warn", "app": "orders", "message": "db query took 950ms rows=12"}
+{"@timestamp": 1794304802300, "levelname": "ERROR", "logger": "payments", "event": "provider timeout after 3000ms"}
+{"ts": "2026-11-10T09:00:03Z", "msg": "no level and no service, uses the file name"}
+this line is not JSON at all {
+{"ts": "not a date", "msg": "bad timestamp"}
+{"level": "INFO", "msg": "missing timestamp"}

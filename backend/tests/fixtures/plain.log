@@ -1,0 +1,5 @@
+2026-11-10T09:00:01.123Z ERROR gateway POST /api/checkout 502 in 3012ms upstream=payments
+2026-11-10 09:00:02,500 WARN [orders] slow call to payments took 2400ms
+[2026-11-10 09:00:03,000] INFO [payments] charged 499 INR for order o-10002
+2026-11-10 09:00:04,000 - orders - CRITICAL - database is unreachable
+Nov 10 09:00:05 host kernel: an unknown syslog-style line

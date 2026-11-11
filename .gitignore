@@ -1,0 +1,13 @@
+.env
+data/
+demo/output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+frontend/node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
