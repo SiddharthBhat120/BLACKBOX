@@ -139,4 +139,4 @@ docs/               screenshots, demo script, interview prep
 
 ---
 
-Built by [Siddharth Bhat](https://github.com/SiddharthBhat120).
+Built by [Siddharth Bhat](https://github.com/sidxcodes).
